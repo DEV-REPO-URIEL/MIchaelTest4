@@ -1,7 +1,7 @@
 {
   "name": "javascript",
   "version": "1.0.0",
-  "description": "berisi informasi tentang implementasi dari javascript",
+  "description": "berisi informasi tentang implementasi dari javascript  -- changed",
   "main": "viewer.js",
   "scripts": {
     "start": "node viewer.js",
